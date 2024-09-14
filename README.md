@@ -10,7 +10,7 @@ I am currently in the university
 - Tech Innovations: Staying updated with advancements...
 
 🛠️ Projects
-- https://yhubhee.w3spaces-preview.com/index.html .
+- https://yhubhee.w3spaces.com/ .
   The project is a team template
 
 ## 📬 Contact Me
